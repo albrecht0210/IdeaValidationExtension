@@ -1,7 +1,7 @@
-#IdeaValidationExtensio
+# IdeaValidationExtension
 
-##Backend
+## Backend
 rename .env.sample to .env.dev
 
-##Frontend
+## Frontend
 rename .env.sample to .env.development.local
